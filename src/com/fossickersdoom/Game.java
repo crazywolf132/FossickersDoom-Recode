@@ -26,8 +26,52 @@ import javax.swing.Timer;
  * Created by Brayden on 01-Jun-16.
  */
 public class Game extends Canvas implements Runnable {
-    @Override
-    public void run() {
+
+    public Game() {
+
+    }
+
+    public void start() {
+
+    }
+
+    public void stop() {
         
+    }
+
+    public void resetstartGame() {
+
+    }
+
+    public void resetGame() {
+
+    }
+
+    private void init() {
+
+    }
+
+    public void run() {
+
+    }
+
+    public void tick() {
+
+    }
+
+    public void changeLevel() {
+
+    }
+
+    public void render() {
+
+    }
+
+    public void renderGui() {
+
+    }
+
+    public static void main() {
+
     }
 }

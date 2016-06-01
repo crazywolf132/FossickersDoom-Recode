@@ -36,7 +36,7 @@ public class Game extends Canvas implements Runnable {
     }
 
     public void stop() {
-        
+
     }
 
     public void resetstartGame() {

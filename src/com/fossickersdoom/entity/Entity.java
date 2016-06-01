@@ -25,5 +25,5 @@ public class Entity {
     public final void init() {
 
     }
-    
+
 }
